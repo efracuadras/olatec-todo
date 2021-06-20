@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `yarn dev`
 
 Launches the server and the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
 [http://localhost:8181](http://localhost:8181) server port.
 
 ### `yarn start`
